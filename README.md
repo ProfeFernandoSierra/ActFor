@@ -4,19 +4,20 @@ Una breve descripcion del proyecto (que hace, para que sirve, etc).
 
 
 ## ENCABEZADOS
-# Headline H1
-## Headline H2
-### Headline H3
-#### Headline H4 
-##### Headline H5
-###### Headline H6
+***
+# ENCABEZADO H1
+## ENCABEZADO H2
+### ENCABEZADO H3
+#### ENCABEZADO H4 
+##### ENCABEZADO H5
+###### ENCABEZADO H6
 
 ## TABLA DE CONTENIDOS
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+***
+1. [Informacion general del proyecto](#Informacion-general-del-proyecto).
+2. [Manual de como instalar](#manual-de-como-instalar).
+3. [Collaboration](#collaboration).
+4. [ORDENAR POR LISTAS](#ordenar-por-listas).
 
 ## Informacion general del proyecto
 ***
